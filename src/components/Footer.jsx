@@ -41,7 +41,7 @@ function Footer() {
               <div className="w-10 h-10 bg-yellow-400 rounded-md mr-3 group-hover:shadow-lg group-hover:shadow-yellow-400/50 transition-all duration-300"></div>
               <div className="text-2xl font-bold">
                 <span className="text-gray-900 dark:text-gray-100">GVN's</span>
-                <span className="text-yellow-400">polio</span>
+                <span className="text-yellow-400">folio</span>
               </div>
             </a>
             
