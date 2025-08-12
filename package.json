@@ -6,12 +6,11 @@
   "homepage": "https://GaveenAnuranga.github.io/GVN-spolip_portfolio",
   "description": "A responsive portfolio website with dark/light mode toggle",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-,
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "clsx": "2.1.1",
     "emailjs-com": "^3.2.0",
