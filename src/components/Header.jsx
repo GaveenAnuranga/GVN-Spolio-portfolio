@@ -27,7 +27,7 @@ function Header() {
         <div className="w-7 h-7 bg-yellow-400 rounded-md mr-2 group-hover:shadow-lg group-hover:shadow-yellow-400/50 transition-all duration-300"></div>
         <div className="text-lg lg:text-xl font-bold">
           <span className="text-gray-900 dark:text-gray-100">GVN's</span>
-          <span className="text-yellow-400">polio</span>
+          <span className="text-yellow-400">folio</span>
         </div>
       </a>
 
