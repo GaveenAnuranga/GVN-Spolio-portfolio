@@ -21,4 +21,8 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw?node_modules/
+build/
+dist/
+.env
+.DS_Store
