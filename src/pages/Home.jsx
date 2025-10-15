@@ -11,8 +11,8 @@ import { useState, useEffect } from "react";
 import emailjs from "emailjs-com";
 import { ToastContainer, toast } from "react-toastify";
 
-import pp from '../image/ppp.PNG';
-import ppj from '../image/ppj.PNG';
+import pp from '../image/ppp.png';
+import ppj from '../image/ppj.png';
 import bot from '../image/bot.png';
 import tution from '../image/tution.jpeg';
 
