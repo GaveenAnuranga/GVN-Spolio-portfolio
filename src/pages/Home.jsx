@@ -82,9 +82,9 @@ function Home() {
     }
 
     // Use Vite environment variables (must be set in .env as VITE_EMAILJS_...)
-    const SERVICE_ID = import.meta.env.REACT_APP_EMAILJS_SERVICE_ID;
-    const TEMPLATE_ID = import.meta.env.REACT_APP_EMAILJS_TEMPLATE_ID;
-    const PUBLIC_KEY = import.meta.env.VREACT_APP_EMAILJS_USER_ID;
+    const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+    const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+    const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
     if (!SERVICE_ID || !TEMPLATE_ID || !PUBLIC_KEY) {
       toast.error(
