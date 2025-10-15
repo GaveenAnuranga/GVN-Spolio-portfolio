@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { ArrowRight } from "lucide-react";
-import pp from "../image/ppp.PNG";
+import pp from "../image/ppp.png";
 
 export default function Hero({ onContactClick }) {
   const roles = ["devops engineer", "fullstack developer"];
